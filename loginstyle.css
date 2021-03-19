@@ -13,6 +13,7 @@ html,body{
 
 .link::after {
     opacity: 0.9;
+    
 }
 
 .login-container{
