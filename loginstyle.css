@@ -5,6 +5,7 @@ body{background: #eee url(http://subtlepatterns.com/patterns/sativa.png);}
 html,body{
     position: relative;
     height: 100%;
+    font-size: 120%;
 }
 
 h1.title, .link　{
@@ -18,8 +19,7 @@ a.link {
     color: blue !important;
     position: absolute !important;
     left: 33%;
-    background-color: white;
-    border-radius: 10px;
+    
     
 }
 
