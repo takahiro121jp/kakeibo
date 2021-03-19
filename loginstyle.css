@@ -15,10 +15,15 @@ h1.title, .link　{
 a.link {
     text-align: center !important;
     text-decoration: none !important;
-    color: #fff !important;
+    color: blue !important;
+    position: absolute !important;
+    left: 33%;
+    background-color: white;
+    border-radius: 10px;
+    
 }
 
-.link:after {
+a.link::after {
     opacity: 0.9;
     
 }
