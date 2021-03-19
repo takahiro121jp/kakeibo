@@ -7,11 +7,17 @@ html,body{
     height: 100%;
 }
 
-.title, .link {
+.title　{
     text-align: center;
 }
 
-.link::after {
+a .link {
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+
+.link:after {
     opacity: 0.9;
     
 }
