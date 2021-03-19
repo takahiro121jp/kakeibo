@@ -7,6 +7,14 @@ html,body{
     height: 100%;
 }
 
+.title, .link {
+    text-align: center;
+}
+
+.link::after {
+    opacity: 0.9;
+}
+
 .login-container{
     position: relative;
     width: 300px;
