@@ -7,14 +7,14 @@ html,body{
     height: 100%;
 }
 
-.title　{
+.title, .link　{
     text-align: center;
 }
 
-a .link {
-    text-align: center;
-    text-decoration: none;
-    color: #fff;
+.link {
+    text-align: center !important;
+    text-decoration: none !important;
+    color: #fff !important;
 }
 
 .link:after {
